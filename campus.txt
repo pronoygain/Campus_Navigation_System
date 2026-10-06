@@ -1,0 +1,65 @@
+LOCATIONS
+1|Main Gate
+2|KUETWOOD
+3|Shaheed Minar
+4|Khan Jahan Ali Hall
+5|Central Field
+6|Auditorium
+7|SWC
+8|Cafeteria
+9|Kuet Central Temple
+10|Pocket Gate
+11|Rashid Hall
+12|Durbar Bangla
+27|Shaheed Smrity Hall
+26|Fazlul Haque Hall
+24|Academic Building
+13|EEE Building
+14|Civil Building
+15|Administrative Building
+16|Rokeya Hall
+17|Mechanical Building
+18|ME Workshop
+19|Medical Center
+20|IT park
+21|Central Mosque
+22|Lalon Shah Hall
+23|Amar Ekushey Hall
+25|Architecture Building
+28|Science Building
+29|Poddo Pukur
+
+EDGES
+1|2|West|9
+2|3|West|13
+3|4|West|4
+4|5|West|3
+5|6|West|6
+6|7|West|5
+7|8|South|7
+7|11|West|8
+8|9|South|4
+9|10|South|2
+11|12|North|5
+12|13|North|5
+26|27|East|6
+24|25|North|5
+24|26|East|3
+24|28|North|9
+13|14|North|4
+13|29|West|2
+14|15|North|5
+15|16|East|10
+15|17|West|5
+17|18|West|7
+17|28|South|4
+18|19|West|14
+19|20|West|20
+19|21|South|7
+21|22|South|5
+21|25|East|13
+22|23|East|6
+23|24|East|13
+28|29|East|3
+
+NEXTID|30
