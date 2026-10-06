@@ -71,5 +71,3 @@ Update this section to match your actual files.
 ## Author
 
 Pronoy Gain
-Computer Science and Engineering
-Khulna University of Engineering & Technology (KUET)
